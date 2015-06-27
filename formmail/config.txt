@@ -1,0 +1,5 @@
+$MAIL_TO = 'kanri@airproducts.jp';
+$MAIL_SUBJECT = 'ウェブサイトからの問い合せ';
+$CONFIRM_PAGE = 'formmail/check.html';
+$FORMERR_PAGE = 'formmail/error.html';
+$THANKS_PAGE = 'formmail/thanks.html';
